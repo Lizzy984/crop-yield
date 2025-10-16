@@ -1,20 +1,20 @@
 ```markdown
-# 🌱 Crop Yield Predictor - SDG 2: Zero Hunger
+🌱 Crop Yield Predictor - SDG 2: Zero Hunger
 
 A machine learning web application that predicts crop yields to support Sustainable Development Goal 2: Zero Hunger.
 
-## 🎯 Project Overview
+🎯 Project Overview
 
 This project uses machine learning to predict crop yields based on environmental and agricultural factors, helping farmers optimize resources and improve food security.
 
-## 🚀 Features
+🚀 Features
 
-- **Data Analysis**: Explore crop yield datasets with interactive visualizations
-- **ML Models**: Train Random Forest and Linear Regression models
-- **Predictions**: Real-time crop yield predictions based on input parameters
-- **Ethical Analysis**: Comprehensive discussion of SDG alignment and ethical considerations
+- Data Analysis**: Explore crop yield datasets with interactive visualizations
+-ML Models**: Train Random Forest and Linear Regression models
+-Predictions**: Real-time crop yield predictions based on input parameters
+- Ethical Analysis**: Comprehensive discussion of SDG alignment and ethical considerations
 
-## 🛠️ Installation
+🛠️ Installation
 
 1. Clone the repository:
 ```bash
@@ -72,11 +72,10 @@ crop-yield-predictor/
 deployment link
 https://crop-yield-lizzy.streamlit.app/
 
-👥 Contributors
+👥 Contributor
 
 LIZPENCER ADHIAMBO
 
 📄 License
-
-
 This project is licensed under the MIT License.
+
