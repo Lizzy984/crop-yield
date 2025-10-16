@@ -68,10 +68,15 @@ crop-yield-predictor/
 └── crop_yield_dataset.csv # Sample dataset
 ```
 
+
+deployment link
+https://crop-yield-lizzy.streamlit.app/
+
 👥 Contributors
 
 LIZPENCER ADHIAMBO
 
 📄 License
+
 
 This project is licensed under the MIT License.
